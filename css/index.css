@@ -14079,6 +14079,19 @@ nav .navbar-nav .nav-link:hover {
   object-fit: cover;
   z-index: -3;
 }
+
+/* special img  */
+.cta .bg-img-special{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  z-index: -3;
+}
+
+/* special img end  */
 .cta h4, .cta .h4 {
   font-size: 28px;
   font-weight: 600;
